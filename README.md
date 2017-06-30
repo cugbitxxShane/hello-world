@@ -1,3 +1,8 @@
 # hello-world
 Noob-Shane's first repository
-chinese
+#include<stdio.h>
+int main()
+{
+  printf("aaaa\n");
+  return 0;
+}
