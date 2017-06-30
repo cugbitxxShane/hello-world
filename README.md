@@ -1,3 +1,9 @@
 # hello-world
 Noob-Shane's first repository
-it is changed
+#include<stdio.h>
+int main()
+{
+  printf("bbbbb\n");
+  return 0;
+}
+
