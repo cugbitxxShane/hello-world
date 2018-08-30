@@ -1,5 +1,5 @@
 # hello-world
-#Noob-Shane's first repository
+Noob-Shane's first repository
 #include<stdio.h>
 int main()
 {
