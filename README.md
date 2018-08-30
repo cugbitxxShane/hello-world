@@ -4,5 +4,6 @@ Noob-Shane's first repository
 int main()
 {
   printf("aaaa\n");
+  printf("noob\n");
   return 0;
 }
