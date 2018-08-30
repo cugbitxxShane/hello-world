@@ -4,6 +4,7 @@ Noob-Shane's first repository
 int main()
 {
   printf("master\n");  
+  printf("feature\n");
   return 0;
 }
 
