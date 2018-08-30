@@ -4,7 +4,6 @@ Noob-Shane's first repository
 int main()
 {
   printf("master\n");  
-  printf("bbbbb\n");
   return 0;
 }
 
